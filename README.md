@@ -6,9 +6,7 @@ This project is built using modern web technologies, including React, TypeScript
 
 ## Table of Contents
 
-- [](#)
-- [Table of Contents](#table-of-contents)
-- [Tack Stack](#tack-stack)
+- [Tech Stack](#tech-stack)
   - [Built With](#built-with)
   - [Usages](#usages)
 - [Folder Structure](#folder-structure)
@@ -35,7 +33,7 @@ This project is built using modern web technologies, including React, TypeScript
 
 ---
 
-## Tack Stack
+## Tech Stack
 
 ### Built With
 
